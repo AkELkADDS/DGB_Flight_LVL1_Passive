@@ -1,0 +1,269 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+   Mon 05/19/2025  7:10:48.18 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Progressions\Progressions.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\GUI\metadata.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Progressions\Progressions.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 1 
+ 
+[LOG] Total files found across all folders: 7 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 to Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using destination: Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:10:51 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\meta.lsx100%  
+	    New File  		   4.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\thumbnail.png 10%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    4.55 m    4.55 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           4779977000 Bytes/sec.
+   Speed :           273512.477 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:10:51 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 to "Editor\Mods"\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using destination: Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:10:53 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     940	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Progressions\Progressions.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       940       940         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :              940000 Bytes/sec.
+   Speed :              53.787 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:10:53 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 to Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using destination: Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:10:55 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4103	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\meta.lsx100%  
+	    New File  		   4.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\GUI\metadata.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :    4.56 m    4.56 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2392258000 Bytes/sec.
+   Speed :           136886.100 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:10:55 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 to Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[DEBUG] Using destination: Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:10:56 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     876	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27\Progressions\Progressions.lsx  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       876       876         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:10:56 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_Flight_LVL1_Patch_e358889a-04a4-3b75-02d2-407bcbafcf27 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 7 
+[SUMMARY] Total files successfully copied: 14 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

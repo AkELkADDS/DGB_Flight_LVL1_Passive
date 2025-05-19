@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fa9cceb2-5b3f-4479-9bf1-23d82c469413" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="e2472b4f-682a-4ac8-b11c-723f921fd7a1" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn_AkELkA_Flight_lvl1" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(12150e11-267a-4ecc-a3cc-292c9e2a198d)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
